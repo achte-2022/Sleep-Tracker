@@ -29,6 +29,13 @@ Python 3.9.12
 $ git clone git@github.com:achte-2022/Sleep-Tracker.git
 ```
 
+## Run
+
+```sh
+$ cd Sleep-Tracker
+$ python3 main.py
+```
+
 ## Create a User
 
 ![](images/create_user.png)
@@ -50,4 +57,5 @@ $ git clone git@github.com:achte-2022/Sleep-Tracker.git
 ![](images/delete_data.png)
 
 ## Progress
+
 ![](images/progress.png)
