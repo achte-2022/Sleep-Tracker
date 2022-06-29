@@ -15,7 +15,7 @@ $ python3 --version
 Python 3.9.12
 ```
 
-[os](https://docs.python.org/3/library/os.html)
+[sys](https://docs.python.org/3/library/sys.html)
 
 [datetime](https://docs.python.org/3/library/datetime.html)
 
